@@ -12,9 +12,15 @@ Dans le cadre de mon stage de 1 er année de BTS j'ai du accomplir la tâche de 
 
   - <b> Telnet </b>
 
-<h2> Dashboard avec des KPI : </h2>
+<h2> Images </h2>
 
-SOON....
+<p align="center">
+<b> DashBoard sous le logiciel Windev </b>
+<br />
+<br />
+<img src="https://i.imgur.com/pe2rdIN.png" height="80%" width="80%" alt="Image du Dashboard sous Windev"/>
+<br />
+<br />
 
 
 
