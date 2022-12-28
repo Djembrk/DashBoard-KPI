@@ -1,5 +1,5 @@
-import telnetlib
-import time
+import telnetlib #Bibliothèque Python Pour la connexion via Telnet
+import time # Bibliothèque de Temps
 
 tel = telnetlib.Telnet("localhost",  23, timeout = 2) #Creation de l'objet tel
 tel.open("localhost" , 23) # ouverture de la connexion en local sur le port 23
